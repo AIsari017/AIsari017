@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Aisari's Github Stats](https://github-readme-stats.vercel.app/api?username=AIsari017)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AIsari017/AIsari017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
