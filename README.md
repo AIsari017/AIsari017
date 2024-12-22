@@ -25,7 +25,7 @@
 <div> <img src="https://img.shields.io/badge/Agile-%2300C4CC.svg?&style=for-the-badge&logo=agile&logoColor=white" alt="Agile (Scrum)" /> <img src="https://img.shields.io/badge/CI/CD-%23E44D26.svg?&style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" /> <img src="https://img.shields.io/badge/Test--Driven%20Development-%23FFA500.svg?&style=for-the-badge&logo=pytest&logoColor=white" alt="Test-Driven Development" /> </div>
 </br>
 
-## Connect with me  
+### <div align="center">🔗 Connect with me</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/aisari-amirov-837164294/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
