@@ -1,4 +1,4 @@
-### <div align="center"> Hi! I'm Aisari Amirov 👋</div>
+### <div align="center"> Hi! I'm Aisari 👋</div>
 
   **<div align="center">Penultimate-year BSc Computer Science** student on track for a first-class degree 🎓</div>
 
