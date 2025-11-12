@@ -1,6 +1,7 @@
 ### <div align="center"> Hi! I'm Aisari 👋</div>
 
-  **<div align="center">Penultimate-year BSc Computer Science** student on track for a first-class degree 🎓</div>
+  **<div align="center"> Goldman Sachs 2025 SWE Intern | AWS Cloud Club Captain | BSc Computer Science
+ </div>
 
 - 🌟 Passionate about Technology, Learning, and Innovation
 - 🌱 Exploring: Machine Learning | AWS | C++
