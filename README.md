@@ -1,6 +1,6 @@
 ### <div align="center"> Hi! I'm Aisari 👋</div>
 
- <div align="center"> Goldman Sachs 2025 SWE Intern | AWS Cloud Club Captain | BSc Computer Science 
+### <div align="center"> Goldman Sachs 2025 SWE Intern | AWS Cloud Club Captain | BSc Computer Science 
  </div>
 
 - 🌟 Passionate about Technology, Learning, and Innovation
